@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "TCP",
+      "path": "Port 22/TCP.md"
+    },
+    {
+      "basename": "ssh service",
+      "path": "ssh service.md"
+    },
+    {
+      "basename": "open ports",
+      "path": "open ports.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "Bike Machine HTB",
+      "path": "Bike Machine HTB.md"
+    },
+    {
+      "basename": "Machine Writeups",
+      "path": "Machine Writeups.md"
+    },
+    {
+      "basename": "ignition",
+      "path": "ignition.md"
+    },
+    {
+      "basename": "Enumeration",
+      "path": "Enumeration.md"
+    },
+    {
+      "basename": "Dirbuster",
+      "path": "Dirbuster.md"
+    },
+    {
+      "basename": "Foothold",
+      "path": "Foothold.md"
+    },
+    {
+      "basename": "Hacking Process",
+      "path": "Hacking Process.md"
+    },
+    {
+      "basename": "Passwords",
+      "path": "Passwords.md"
+    },
+    {
+      "basename": "unable to connect",
+      "path": "unable to connect.md"
+    },
+    {
+      "basename": "multiple hosts to one IP",
+      "path": "multiple hosts to one IP.md"
+    },
+    {
+      "basename": "Intro to Cryptography WGU",
+      "path": "Intro to Cryptography WGU.md"
+    },
+    {
+      "basename": "Cryptography Pre Assessment",
+      "path": "Cryptography Pre Assessment.md"
+    },
+    {
+      "basename": "Cryptography",
+      "path": "Cryptography.md"
+    },
+    {
+      "basename": "Playfair",
+      "path": "Playfair.md"
+    },
+    {
+      "basename": "Bifid Cypher",
+      "path": "Bifid Cypher.md"
+    },
+    {
+      "basename": "XTEA",
+      "path": "XTEA.md"
+    },
+    {
+      "basename": "Camilla",
+      "path": "Camilla.md"
+    },
+    {
+      "basename": "Blowfish, TwoFish",
+      "path": "Blowfish, TwoFish.md"
+    },
+    {
+      "basename": "Skipjack",
+      "path": "Skipjack.md"
+    },
+    {
+      "basename": "Block Encryption",
+      "path": "Block Encryption.md"
+    },
+    {
+      "basename": "Symmetric Encryption",
+      "path": "Symmetric Encryption.md"
+    },
+    {
+      "basename": "RC2, RC5, RC6",
+      "path": "RC2, RC5, RC6.md"
+    },
+    {
+      "basename": "IDEA (Algorithm)",
+      "path": "IDEA (Algorithm).md"
+    },
+    {
+      "basename": "AES",
+      "path": "AES.md"
+    },
+    {
+      "basename": "3DES",
+      "path": "3DES.md"
+    },
+    {
+      "basename": "DES",
+      "path": "DES.md"
+    },
+    {
+      "basename": "Encoding and Decoding",
+      "path": "Encoding and Decoding.md"
+    },
+    {
+      "basename": "Decryption",
+      "path": "Decryption.md"
+    },
+    {
+      "basename": "Encryption",
+      "path": "Encryption.md"
+    },
+    {
+      "basename": "Entropy",
+      "path": "Entropy.md"
+    },
+    {
+      "basename": "Markdown Cheatsheet",
+      "path": "Markdown Cheatsheet.md"
+    },
+    {
+      "basename": "Shift Row Transformation",
+      "path": "Shift Row Transformation.md"
+    },
+    {
+      "basename": "Diffusion",
+      "path": "Diffusion.md"
+    },
+    {
+      "basename": "Padding",
+      "path": "Padding.md"
+    },
+    {
+      "basename": "Pasted image 20240609130143",
+      "path": "Pasted image 20240609130143.png"
+    },
+    {
+      "basename": "Pasted image 20240609130245",
+      "path": "Pasted image 20240609130245.png"
+    },
+    {
+      "basename": "Pasted image 20240609112027",
+      "path": "Pasted image 20240609112027.png"
+    },
+    {
+      "basename": "Pasted image 20240609104512",
+      "path": "Pasted image 20240609104512.png"
+    },
+    {
+      "basename": "Pasted image 20240609104207",
+      "path": "Pasted image 20240609104207.png"
+    },
+    {
+      "basename": "Pasted image 20240609103227",
+      "path": "Pasted image 20240609103227.png"
+    },
+    {
+      "basename": "Pasted image 20240609102611",
+      "path": "Pasted image 20240609102611.png"
+    },
+    {
+      "basename": "Pasted image 20240609102508",
+      "path": "Pasted image 20240609102508.png"
+    },
+    {
+      "basename": "Pasted image 20240609102309",
+      "path": "Pasted image 20240609102309.png"
+    },
+    {
+      "basename": "Pasted image 20240609102027",
+      "path": "Pasted image 20240609102027.png"
+    },
+    {
+      "basename": "Pasted image 20240609112212",
+      "path": "Pasted image 20240609112212.png"
+    },
+    {
+      "basename": "Pasted image 20240609112447",
+      "path": "Pasted image 20240609112447.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
