@@ -1359,8 +1359,14 @@
             "id": "a5a3bb993a572cbf",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Passwords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Passwords.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1858,6 +1864,9 @@
   },
   "active": "a5a3bb993a572cbf",
   "lastOpenFiles": [
+    "Passwords.md",
+    "Hacking Process.md",
+    "scheduledTasks.csv",
     "Enumeration.md",
     "Combinations.md",
     "3DES.md",
@@ -1876,8 +1885,6 @@
     "Foothold.md",
     "Pasted image 20240610122134.png",
     "Pasted image 20240610120452.png",
-    "Hacking Process.md",
-    "Passwords.md",
     "Pasted image 20240610105614.png",
     "unable to connect.md",
     "multiple hosts to one IP.md",
@@ -1894,7 +1901,6 @@
     "Camilla.md",
     "Blowfish, TwoFish.md",
     "Skipjack.md",
-    "Block Encryption.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -5,6 +5,10 @@
       "path": "Hacking Process.md"
     },
     {
+      "basename": "Passwords",
+      "path": "Passwords.md"
+    },
+    {
       "basename": "Enumeration",
       "path": "Enumeration.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Foothold",
       "path": "Foothold.md"
-    },
-    {
-      "basename": "Passwords",
-      "path": "Passwords.md"
     },
     {
       "basename": "unable to connect",
