@@ -1366,6 +1366,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Enumeration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Enumeration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "Combinations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Combinations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3DES",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3DES.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "open ports",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"open ports.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TCP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Port 22/TCP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
                   "title": "ssh service",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ssh service.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1502,7 +1532,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port 22/TCP.md",
+                "file": "Hacking Process.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1644,8 +1674,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -1690,7 +1719,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Port 22/TCP.md",
+                "file": "Hacking Process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1734,7 +1763,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port 22/TCP.md"
+                "file": "Hacking Process.md"
               }
             }
           },
@@ -1776,7 +1805,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port 22/TCP.md",
+                "file": "Hacking Process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1802,7 +1831,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port 22/TCP.md",
+                "file": "Hacking Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1829,9 +1858,13 @@
   },
   "active": "a5a3bb993a572cbf",
   "lastOpenFiles": [
-    "ssh service.md",
-    "Port 22/TCP.md",
+    "Enumeration.md",
+    "Combinations.md",
+    "3DES.md",
     "open ports.md",
+    "Port 22/TCP.md",
+    "Intro to Cryptography WGU.md",
+    "ssh service.md",
     "Port 22",
     "nmap.md",
     "Bike Machine HTB.md",
@@ -1839,7 +1872,6 @@
     "Pasted image 20240610122830.png",
     "Machine Writeups.md",
     "ignition.md",
-    "Enumeration.md",
     "Dirbuster.md",
     "Foothold.md",
     "Pasted image 20240610122134.png",
@@ -1854,7 +1886,6 @@
     "Pasted image 20240610092936.png",
     "Pasted image 20240610092334.png",
     "Pasted image 20240610091932.png",
-    "Intro to Cryptography WGU.md",
     "Cryptography Pre Assessment.md",
     "Cryptography.md",
     "Playfair.md",
@@ -1864,8 +1895,6 @@
     "Blowfish, TwoFish.md",
     "Skipjack.md",
     "Block Encryption.md",
-    "Symmetric Encryption.md",
-    "RC2, RC5, RC6.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

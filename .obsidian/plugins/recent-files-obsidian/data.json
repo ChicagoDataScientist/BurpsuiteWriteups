@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "TCP",
-      "path": "Port 22/TCP.md"
+      "basename": "Hacking Process",
+      "path": "Hacking Process.md"
     },
     {
-      "basename": "ssh service",
-      "path": "ssh service.md"
+      "basename": "Enumeration",
+      "path": "Enumeration.md"
+    },
+    {
+      "basename": "Combinations",
+      "path": "Combinations.md"
+    },
+    {
+      "basename": "3DES",
+      "path": "3DES.md"
     },
     {
       "basename": "open ports",
       "path": "open ports.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Port 22/TCP.md"
+    },
+    {
+      "basename": "Intro to Cryptography WGU",
+      "path": "Intro to Cryptography WGU.md"
+    },
+    {
+      "basename": "ssh service",
+      "path": "ssh service.md"
     },
     {
       "basename": "nmap",
@@ -29,20 +49,12 @@
       "path": "ignition.md"
     },
     {
-      "basename": "Enumeration",
-      "path": "Enumeration.md"
-    },
-    {
       "basename": "Dirbuster",
       "path": "Dirbuster.md"
     },
     {
       "basename": "Foothold",
       "path": "Foothold.md"
-    },
-    {
-      "basename": "Hacking Process",
-      "path": "Hacking Process.md"
     },
     {
       "basename": "Passwords",
@@ -55,10 +67,6 @@
     {
       "basename": "multiple hosts to one IP",
       "path": "multiple hosts to one IP.md"
-    },
-    {
-      "basename": "Intro to Cryptography WGU",
-      "path": "Intro to Cryptography WGU.md"
     },
     {
       "basename": "Cryptography Pre Assessment",
@@ -111,10 +119,6 @@
     {
       "basename": "AES",
       "path": "AES.md"
-    },
-    {
-      "basename": "3DES",
-      "path": "3DES.md"
     },
     {
       "basename": "DES",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240609112212",
       "path": "Pasted image 20240609112212.png"
-    },
-    {
-      "basename": "Pasted image 20240609112447",
-      "path": "Pasted image 20240609112447.png"
     }
   ],
   "omittedPaths": [],
