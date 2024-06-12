@@ -1359,8 +1359,14 @@
             "id": "f0738b1c01b8a837",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "WebSecurityAcademy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WebSecurityAcademy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1812,13 +1818,18 @@
   },
   "active": "f0738b1c01b8a837",
   "lastOpenFiles": [
+    "Pasted image 20240612152810.png",
+    "WebSecurityAcademy.md",
+    "Lab- SQL injection UNION.md",
+    "Pasted image 20240612152504.png",
+    "Pasted image 20240612152343.png",
+    "Pasted image 20240612152154.png",
+    "Pasted image 20240612151617.png",
     "Pasted image 20240612151226.png",
     "Pasted image 20240612151116.png",
     "Pasted image 20240612150920.png",
     "Pasted image 20240612150517.png",
     "Pasted image 20240612150401.png",
-    "WebSecurityAcademy.md",
-    "Lab- SQL injection UNION.md",
     "Portswigger.md",
     "Intro to Cryptography WGU.md",
     "Bike Machine HTB.md",
@@ -1847,11 +1858,6 @@
     "3DES.md",
     "Port 22",
     "Pasted image 20240610122851.png",
-    "Pasted image 20240610122830.png",
-    "Pasted image 20240610122134.png",
-    "Pasted image 20240610120452.png",
-    "Pasted image 20240610105614.png",
-    "Pasted image 20240610104142.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
