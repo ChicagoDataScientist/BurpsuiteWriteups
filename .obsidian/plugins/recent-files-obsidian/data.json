@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab- SQL injection UNION",
+      "path": "Lab- SQL injection UNION.md"
+    },
+    {
+      "basename": "WebSecurityAcademy",
+      "path": "WebSecurityAcademy.md"
+    },
+    {
+      "basename": "Portswigger",
+      "path": "Portswigger.md"
+    },
+    {
+      "basename": "Intro to Cryptography WGU",
+      "path": "Intro to Cryptography WGU.md"
+    },
+    {
       "basename": "Bike Machine HTB",
       "path": "Bike Machine HTB.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "TCP",
       "path": "Port 22/TCP.md"
-    },
-    {
-      "basename": "Intro to Cryptography WGU",
-      "path": "Intro to Cryptography WGU.md"
     },
     {
       "basename": "Python Commands",
@@ -187,18 +199,6 @@
     {
       "basename": "Shift Row Transformation",
       "path": "Shift Row Transformation.md"
-    },
-    {
-      "basename": "Diffusion",
-      "path": "Diffusion.md"
-    },
-    {
-      "basename": "Padding",
-      "path": "Padding.md"
-    },
-    {
-      "basename": "Pasted image 20240609130143",
-      "path": "Pasted image 20240609130143.png"
     }
   ],
   "omittedPaths": [],
