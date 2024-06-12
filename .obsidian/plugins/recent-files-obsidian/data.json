@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Hacking Process",
-      "path": "Hacking Process.md"
+      "basename": "Bike Machine HTB",
+      "path": "Bike Machine HTB.md"
     },
     {
-      "basename": "Passwords",
-      "path": "Passwords.md"
+      "basename": "Server Side Template Injection (SSTI)",
+      "path": "Server Side Template Injection (SSTI).md"
     },
     {
-      "basename": "Enumeration",
-      "path": "Enumeration.md"
+      "basename": "Template Engines",
+      "path": "Template Engines.md"
     },
     {
-      "basename": "Combinations",
-      "path": "Combinations.md"
+      "basename": "Node JS",
+      "path": "Node JS.md"
     },
     {
-      "basename": "3DES",
-      "path": "3DES.md"
+      "basename": "http services",
+      "path": "http services.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "Port 80/TCP.md"
+    },
+    {
+      "basename": "Wappalyzer",
+      "path": "Wappalyzer.md"
     },
     {
       "basename": "open ports",
       "path": "open ports.md"
+    },
+    {
+      "basename": "Hacking Process",
+      "path": "Hacking Process.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
     },
     {
       "basename": "TCP",
@@ -33,16 +49,8 @@
       "path": "Intro to Cryptography WGU.md"
     },
     {
-      "basename": "ssh service",
-      "path": "ssh service.md"
-    },
-    {
-      "basename": "nmap",
-      "path": "nmap.md"
-    },
-    {
-      "basename": "Bike Machine HTB",
-      "path": "Bike Machine HTB.md"
+      "basename": "Python Commands",
+      "path": "Python Commands.md"
     },
     {
       "basename": "Machine Writeups",
@@ -53,12 +61,44 @@
       "path": "ignition.md"
     },
     {
-      "basename": "Dirbuster",
-      "path": "Dirbuster.md"
+      "basename": "Enumeration",
+      "path": "Enumeration.md"
     },
     {
       "basename": "Foothold",
       "path": "Foothold.md"
+    },
+    {
+      "basename": "Python Course",
+      "path": "Python Course.md"
+    },
+    {
+      "basename": "Python_cheat_sheet",
+      "path": "Python_cheat_sheet.pdf"
+    },
+    {
+      "basename": "Python Cheat sheet",
+      "path": "Python Cheat sheet.md"
+    },
+    {
+      "basename": "Passwords",
+      "path": "Passwords.md"
+    },
+    {
+      "basename": "Combinations",
+      "path": "Combinations.md"
+    },
+    {
+      "basename": "3DES",
+      "path": "3DES.md"
+    },
+    {
+      "basename": "ssh service",
+      "path": "ssh service.md"
+    },
+    {
+      "basename": "Dirbuster",
+      "path": "Dirbuster.md"
     },
     {
       "basename": "unable to connect",
@@ -159,46 +199,6 @@
     {
       "basename": "Pasted image 20240609130143",
       "path": "Pasted image 20240609130143.png"
-    },
-    {
-      "basename": "Pasted image 20240609130245",
-      "path": "Pasted image 20240609130245.png"
-    },
-    {
-      "basename": "Pasted image 20240609112027",
-      "path": "Pasted image 20240609112027.png"
-    },
-    {
-      "basename": "Pasted image 20240609104512",
-      "path": "Pasted image 20240609104512.png"
-    },
-    {
-      "basename": "Pasted image 20240609104207",
-      "path": "Pasted image 20240609104207.png"
-    },
-    {
-      "basename": "Pasted image 20240609103227",
-      "path": "Pasted image 20240609103227.png"
-    },
-    {
-      "basename": "Pasted image 20240609102611",
-      "path": "Pasted image 20240609102611.png"
-    },
-    {
-      "basename": "Pasted image 20240609102508",
-      "path": "Pasted image 20240609102508.png"
-    },
-    {
-      "basename": "Pasted image 20240609102309",
-      "path": "Pasted image 20240609102309.png"
-    },
-    {
-      "basename": "Pasted image 20240609102027",
-      "path": "Pasted image 20240609102027.png"
-    },
-    {
-      "basename": "Pasted image 20240609112212",
-      "path": "Pasted image 20240609112212.png"
     }
   ],
   "omittedPaths": [],

@@ -1359,17 +1359,41 @@
             "id": "a5a3bb993a572cbf",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Passwords",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Passwords.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Machine Writeups",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Machine Writeups.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}}}"
+                },
+                {
+                  "title": "ignition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ignition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}}}"
+                },
+                {
+                  "title": "nmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"nmap.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":22},\"to\":{\"line\":3,\"ch\":2}}}"
+                },
+                {
+                  "title": "Enumeration",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Enumeration.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}}}"
+                },
+                {
+                  "title": "Hacking Process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hacking Process.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":12},\"to\":{\"line\":5,\"ch\":12}}}"
                 },
                 {
                   "title": "Enumeration",
@@ -1538,7 +1562,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Process.md",
+                "file": "Bike Machine HTB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d9b4de367e6c07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Python Course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Python Course.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":16},\"to\":{\"line\":4,\"ch\":16}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1584,9 +1636,85 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7092f264d97cc3f2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template Engines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template Engines.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":154},\"to\":{\"line\":7,\"ch\":154}}}"
+                },
+                {
+                  "title": "Node JS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Node JS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":85},\"to\":{\"line\":5,\"ch\":85}}}"
+                },
+                {
+                  "title": "http services",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"http services.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":7},\"to\":{\"line\":2,\"ch\":7}}}"
+                },
+                {
+                  "title": "TCP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Port 80/TCP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}}}"
+                },
+                {
+                  "title": "open ports",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"open ports.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}}}"
+                },
+                {
+                  "title": "Hacking Process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hacking Process.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
+                },
+                {
+                  "title": "nmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"nmap.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":16},\"to\":{\"line\":0,\"ch\":16}}}"
+                },
+                {
+                  "title": "open ports",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"open ports.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":8},\"to\":{\"line\":0,\"ch\":8}}}"
+                },
+                {
+                  "title": "TCP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Port 22/TCP.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Side Template Injection (SSTI).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1725,7 +1853,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hacking Process.md",
+                "file": "Bike Machine HTB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1769,7 +1897,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Process.md"
+                "file": "Bike Machine HTB.md"
               }
             }
           },
@@ -1811,7 +1939,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Process.md",
+                "file": "Bike Machine HTB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1837,7 +1965,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Process.md",
+                "file": "Bike Machine HTB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1862,27 +1990,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5a3bb993a572cbf",
+  "active": "c3ab9fcd0f606dd8",
   "lastOpenFiles": [
-    "Passwords.md",
-    "Hacking Process.md",
-    "scheduledTasks.csv",
-    "Enumeration.md",
-    "Combinations.md",
-    "3DES.md",
+    "Server Side Template Injection (SSTI).md",
+    "Template Engines.md",
+    "Node JS.md",
+    "http services.md",
+    "Port 80/TCP.md",
+    "Bike Machine HTB.md",
+    "Wappalyzer.md",
     "open ports.md",
+    "Port 80",
+    "Hacking Process.md",
+    "nmap.md",
     "Port 22/TCP.md",
     "Intro to Cryptography WGU.md",
-    "ssh service.md",
-    "Port 22",
-    "nmap.md",
-    "Bike Machine HTB.md",
-    "Pasted image 20240610122851.png",
-    "Pasted image 20240610122830.png",
+    "Python Commands.md",
     "Machine Writeups.md",
     "ignition.md",
-    "Dirbuster.md",
+    "Enumeration.md",
     "Foothold.md",
+    "Python Course.md",
+    "Python_cheat_sheet.pdf",
+    "Python Cheat sheet.md",
+    "Passwords.md",
+    "scheduledTasks.csv",
+    "Combinations.md",
+    "3DES.md",
+    "ssh service.md",
+    "Port 22",
+    "Pasted image 20240610122851.png",
+    "Pasted image 20240610122830.png",
+    "Dirbuster.md",
     "Pasted image 20240610122134.png",
     "Pasted image 20240610120452.png",
     "Pasted image 20240610105614.png",
@@ -1893,14 +2032,6 @@
     "Pasted image 20240610092936.png",
     "Pasted image 20240610092334.png",
     "Pasted image 20240610091932.png",
-    "Cryptography Pre Assessment.md",
-    "Cryptography.md",
-    "Playfair.md",
-    "Bifid Cypher.md",
-    "XTEA.md",
-    "Camilla.md",
-    "Blowfish, TwoFish.md",
-    "Skipjack.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
