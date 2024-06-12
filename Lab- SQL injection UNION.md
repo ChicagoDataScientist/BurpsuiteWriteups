@@ -1,4 +1,4 @@
-up:[[WebSecurityAcademy]]
+up:[[WebSecurityAcademy]] #sqlinjection
 
 # Lab: SQL injection UNION
 The goal is to find how many columns are in the SQL Table

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Lab- SQL injection UNION",
-      "path": "Lab- SQL injection UNION.md"
+      "basename": "Lab- SQL injection UNION attack, retrieving data from other tables",
+      "path": "Lab- SQL injection UNION attack, retrieving data from other tables.md"
     },
     {
       "basename": "WebSecurityAcademy",
       "path": "WebSecurityAcademy.md"
+    },
+    {
+      "basename": "Lab- SQL injection UNION",
+      "path": "Lab- SQL injection UNION.md"
     },
     {
       "basename": "Portswigger",
@@ -195,10 +199,6 @@
     {
       "basename": "Markdown Cheatsheet",
       "path": "Markdown Cheatsheet.md"
-    },
-    {
-      "basename": "Shift Row Transformation",
-      "path": "Shift Row Transformation.md"
     }
   ],
   "omittedPaths": [],

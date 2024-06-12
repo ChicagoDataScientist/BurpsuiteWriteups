@@ -1359,14 +1359,8 @@
             "id": "f0738b1c01b8a837",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "WebSecurityAcademy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WebSecurityAcademy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1375,7 +1369,7 @@
                   "title": "WebSecurityAcademy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WebSecurityAcademy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":30},\"to\":{\"line\":7,\"ch\":30}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":28},\"to\":{\"line\":8,\"ch\":28}},\"scroll\":0}"
                 },
                 {
                   "title": "Portswigger",
@@ -1388,7 +1382,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab- SQL injection UNION.md",
+                "file": "Lab- SQL injection UNION attack, retrieving data from other tables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1679,7 +1673,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lab- SQL injection UNION.md",
+                "file": "Lab- SQL injection UNION attack, retrieving data from other tables.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1723,7 +1717,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab- SQL injection UNION.md"
+                "file": "Lab- SQL injection UNION attack, retrieving data from other tables.md"
               }
             }
           },
@@ -1765,7 +1759,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab- SQL injection UNION.md",
+                "file": "Lab- SQL injection UNION attack, retrieving data from other tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1791,7 +1785,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab- SQL injection UNION.md",
+                "file": "Lab- SQL injection UNION attack, retrieving data from other tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1818,9 +1812,10 @@
   },
   "active": "f0738b1c01b8a837",
   "lastOpenFiles": [
-    "Pasted image 20240612152810.png",
     "WebSecurityAcademy.md",
+    "Lab- SQL injection UNION attack, retrieving data from other tables.md",
     "Lab- SQL injection UNION.md",
+    "Pasted image 20240612152810.png",
     "Pasted image 20240612152504.png",
     "Pasted image 20240612152343.png",
     "Pasted image 20240612152154.png",
@@ -1857,7 +1852,6 @@
     "Combinations.md",
     "3DES.md",
     "Port 22",
-    "Pasted image 20240610122851.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
